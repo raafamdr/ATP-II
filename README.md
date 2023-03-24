@@ -1,5 +1,5 @@
 # Algoritmos e Técnicas de Programação II
-Este repositório contém exercícios e Projetos propostos na disciplina de ATP-II.
+Este repositório contém exercícios e projetos propostos na disciplina de ATP-II.
 
 ## Aulas
 Aula 01 - Recursão <br>
